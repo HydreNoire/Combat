@@ -1,0 +1,15 @@
+{
+    "name": "jacks/test",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lise",
+            "email": "lise692@gmail.com"
+        }
+    ],
+    "require": {}
+}
